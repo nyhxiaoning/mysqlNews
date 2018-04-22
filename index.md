@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 一个运用mysql数据库进行后台新闻管理和前台新闻交互的小型网站网站
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/mysqlNews/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* 我的个人网站主页是nyhxiaoning.github.io *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目技术描述
+- 对于mysql数据库的各种数据类型进行个性化的应用和存储，同时利用boostrap进行网站的界面展示，后台进行数据的增删查改，前台对于交互的数据进行ejs模板的替换和应用，实现一个基本网站nodejs的全栈开发
 
-### Markdown
+## 编辑器 
+- 使用submit webstorm vscode atom
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 项目功能
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/mysqlNews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 进行基本新闻的展示，进行后台的数据查看
